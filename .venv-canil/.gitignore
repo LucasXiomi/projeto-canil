@@ -1,0 +1,10 @@
+# Ignorar a pasta do ambiente virtual
+.venv/
+# Ignorar arquivos de log
+*.log
+# Ignorar arquivos temporários de editores (ex: Emacs)
+*~
+
+# Ignorar arquivos de cache
+__pycache__/
+.pytest_cache/
